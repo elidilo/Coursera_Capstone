@@ -1,7 +1,7 @@
 # Coursera_Capstone
-Applied Data Science - Capstone Project
+This repository contains notebooks for the "Applied Data Science Capstone Project" from Coursera.
 
-Capstone Project Notebook : Week 1 Assignment
+1) Capstone Project Notebook : Week 1 Assignment
 
-Applied Data Science Capstone -Toronto : Week 3 Assignment
+2) Applied Data Science Capstone -Toronto : Week 3 Assignment
 (if the maps are not displayed correctly in the notebook, please refer to the provided nbviewer link)
